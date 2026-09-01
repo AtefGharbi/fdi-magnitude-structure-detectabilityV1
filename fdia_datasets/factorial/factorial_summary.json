@@ -1,0 +1,36 @@
+{
+  "14-bus": {
+    "structure_effect": {
+      "mean_diff": -0.004268321997012239,
+      "p": 0.7421875,
+      "dz": -0.2243944849930077
+    },
+    "magnitude_effect": {
+      "mean_diff": 0.212217459933147,
+      "p": 0.0078125,
+      "dz": 7.292305556900408
+    },
+    "interaction_effect": {
+      "mean_diff": 0.013237781584668647,
+      "p": 0.4609375,
+      "dz": 0.35060387501027146
+    }
+  },
+  "118-bus": {
+    "structure_effect": {
+      "mean_diff": 0.0,
+      "p": 1.0,
+      "dz": NaN
+    },
+    "magnitude_effect": {
+      "mean_diff": 0.0,
+      "p": 1.0,
+      "dz": NaN
+    },
+    "interaction_effect": {
+      "mean_diff": 0.0,
+      "p": 1.0,
+      "dz": NaN
+    }
+  }
+}
